@@ -1,0 +1,26 @@
+{
+  generator:
+  {
+type: minecraft:flat
+settings{
+  layers:[
+    {1000
+    stone}
+  ]
+}
+biome: plains
+lakes false
+features false
+structures:
+      stronghold:
+      {
+        0
+        1
+        0
+      }
+      structures:
+      {
+      }
+    }
+  }
+}
